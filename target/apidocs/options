@@ -1,0 +1,25 @@
+-classpath
+'D:/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar;D:/repository/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE.jar;D:/repository/org/springframework/spring-expression/5.0.5.RELEASE/spring-expression-5.0.5.RELEASE.jar;D:/repository/org/springframework/spring-jcl/5.0.5.RELEASE/spring-jcl-5.0.5.RELEASE.jar;D:/repository/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar;D:/repository/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'F:/springboot/mayun/easy-brancher/src/main/java;F:/springboot/mayun/easy-brancher/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2018. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/springboot/mayun/easy-brancher/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'easy-brancher 1.0.1-RELEASE API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'F:/springboot/mayun/easy-brancher/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'easy-brancher 1.0.1-RELEASE API'

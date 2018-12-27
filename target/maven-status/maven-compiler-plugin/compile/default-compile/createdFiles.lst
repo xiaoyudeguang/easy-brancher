@@ -1,0 +1,4 @@
+com\zlyx\easybrancher\BranchManager.class
+com\zlyx\easybrancher\interfaces\IBrancher.class
+com\zlyx\easybrancher\abstracts\AbstractBrancher.class
+com\zlyx\easybrancher\annotations\Brancher.class
